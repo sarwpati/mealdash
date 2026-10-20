@@ -5,7 +5,11 @@ MealDash is a food delivery web application inspired by modern food ordering pla
 ## 🌐 Links
 
 - **GitHub Repository:** [MealDash](https://github.com/sarwpati/mealdash)
-- **Live Demo:** Coming soon
+- ## 🔗 Live Demo
+
+**Try MealDash here:** [https://mealdash-fawn.vercel.app](https://mealdash-fawn.vercel.app)
+
+Explore the deployed food delivery frontend directly in your browser.
 
 ## ✨ Features
 
